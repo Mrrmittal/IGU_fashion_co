@@ -1,5 +1,6 @@
-## SuperShop - Single Vendor Ecommerce Application
-
+## IGU Fashion Co. - Single Vendor Ecommerce Application
+## Author - Jatin Mittal
+## Contact Details : jatinmittal164@gmail.com
 
 ### FrontEnd Application Folder Structure
 
@@ -28,8 +29,6 @@
 ```
 
 
-
-admin password: abc123
 
 
 ### Features:
