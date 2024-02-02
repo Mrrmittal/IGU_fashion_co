@@ -1,0 +1,10 @@
+<!--=*= ADMIN INFO =*=-->
+
+Root Admin
+email	: jatinmittal164@gmail.com
+pass	: urban@
+
+
+<!--=*= CUSTOMER INFO =*=-->
+email	: jatin@igu
+pass	: 123
